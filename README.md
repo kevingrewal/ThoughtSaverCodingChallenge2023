@@ -35,6 +35,8 @@ Your task is to create a simple flash card app, where users can review cards. Th
   - _Select 'private'_
   - Begin import (this should take less than a minute)
 
+- Feel free to leave comments in the app saying what you might do with more time (or write them in the answer to the first free text question if you prefer)
+
 - Edit this README.md with instructions for how to run your application
 
 # How to run this app
@@ -48,12 +50,20 @@ Run with `npm run dev`
 
 Please answer the following questions.
 
-## Assume you wanted the data to be stored permanently for the user. What database might you use? Why? What might some core tables look like? (100 words max)
+## What did you like/not like about your coding solution? What would you improve on with more time? (max 100 words)
 
-**Answer goes here**
+**Answer goes here, feel free to answer in bullet points**
+
+## Assume you wanted the data to be stored permanently for the user. What database might you use? Why? What might some core tables and their schemas look like? (100 words max)
+
+**Answer goes here, feel free to answer in bullet points**
+
+## Where/how might you deploy/manage the database? (50 words max)
+
+**Answer goes here, feel free to answer in bullet points**
 
 ## What other technology that you like would you likely use if you were making this app more fully featured? Why? (100 words max)
 
-- NB: We'er not looking for a comprehensive/exhaustive list of everything, we're just curious for a flavour of what technologies you like and work with. e.g. any of css/component libraries, testing libraries, linting tools, state management tools, frontend frameworks, deployment tooling like vercel, etc
+- NB: We're not looking for a comprehensive/exhaustive list of everything, we're just curious for a flavour of what technologies you like and work with. e.g. any of css/component libraries, testing libraries, linting tools, state management tools, frontend frameworks, deployment tooling like vercel, etc
 
-**Answer goes here**
+**Answer goes here, feel free to answer in bullet points**
