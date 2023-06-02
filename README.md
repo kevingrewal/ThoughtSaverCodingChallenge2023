@@ -13,6 +13,7 @@ Your task is to create a simplified version of Thought Saver, where users can re
 ### Card List
 
 A list of all the cards, with fronts and backs shown, and navigation buttons to go between 'quiz' mode and 'card list' mode
+
 ![Card List Page](/wireframes/CardListPage.png)
 
 ### Quiz Page
