@@ -40,6 +40,7 @@ Your task is to create a simple flash card app, where users can review cards. Th
 # How to run this app
 
 Edit this section with instructions. e.g.
+
 Setup with `npm install`
 Run with `npm run dev`
 
