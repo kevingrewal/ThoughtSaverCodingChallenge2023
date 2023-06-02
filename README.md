@@ -75,6 +75,8 @@ Please answer the following questions.
 
 ## What other technology that you like would you likely use if you were making this app more fully featured? Why? (100 words max)
 
-- NB: We're not looking for a comprehensive/exhaustive list of everything, we're just curious for a flavour of what technologies you like and work with. e.g. any of css/component libraries, testing libraries, linting tools, state management tools, frontend frameworks, deployment tooling like vercel, etc
+NB: We're not looking for a comprehensive/exhaustive list of everything, just a flavour of what technologies you like and work with.
+
+e.g. any of css/component libraries, testing libraries, linting tools, state management tools, frontend frameworks, deployment tooling like vercel, etc
 
 **Answer goes here, feel free to answer in bullet points**
