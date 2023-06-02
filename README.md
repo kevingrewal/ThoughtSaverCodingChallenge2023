@@ -23,7 +23,7 @@ On clicking 'quiz', go to a quiz page, where the user quizzes on every card. Eac
 - The card front, with one button saying “Reveal Back”
   ![Quiz Card Front](/wireframes/QuizCardFront.png)
 - After pressing "Reveal", the card back appears, with two buttons: "Remembered" and "Didn’t remember"
-  ![Quiz Card Front](/wireframes/QuizCardFront.png)
+  ![Quiz Card Front](/wireframes/QuizCardBack.png)
 
 The user goes through all of the cards, pressing ‘remembered’ or ‘didn’t remember’. Once they press ‘remembered’, the card is not shown again. If they press ‘didn’t remember’ the card is sent to the back of the cards that remain to be shown and shown again at the end of the quiz.
 
