@@ -7,19 +7,29 @@ Recommended time
 
 ## Coding Goal (45 minutes)
 
-One of [Thought Saver's](app.thoughtsaver.com) core features is Flash Cards. Flash cards are a way of learning, where cards have two sides: a front, e.g. "What is the French word for ‘yes’?", and a back, e.g. "oui".
-Your task is to create a simple flash card app, where users can review cards. There should be two pages:
+One of Thought Saver's core features is flash cards. Flash cards are a way of learning, where cards have two sides: a front, e.g. "What is the French word for ‘yes’?", and a back, e.g. "oui".
+Your task is to create a simplified version of Thought Saver, where users can review cards. It should have the following screens:
 
-1. A list of all the cards, with fronts and backs shown.
-   ![Card List Page](/wireframes/CardListPage.png)
-2. A quiz page, where the user goes through every card in any order. Each card is shown one at a time, in the following steps:
-   - The card front, with one button saying “Reveal Back”
-     ![Quiz Card Front](/wireframes/QuizCardFront.png)
-   - After pressing "Reveal", the card back appears, with two buttons: "Remembered" and "Didn’t remember"
-     ![Quiz Card Front](/wireframes/QuizCardFront.png)
-3. The user goes through all of the cards, pressing ‘remembered’ or ‘didn’t remember’. Once they press ‘remembered’, the card is not shown again. If they press ‘didn’t remember’ the card is sent to the back of the cards that remain to be shown and shown again at the end of the quiz.
-4. Once the cards are all done, the user sees a “Congratulations, you’re done!” screen
-   ![Quiz Finished](/wireframes/QuizFinished.png)
+### Card List
+
+A list of all the cards, with fronts and backs shown, and navigation buttons to go between 'quiz' mode and 'card list' mode
+![Card List Page](/wireframes/CardListPage.png)
+
+### Quiz Page
+
+On clicking 'quiz', go to a quiz page, where the user quizzes on every card. Each card is shown one at a time, in the following steps:
+
+- The card front, with one button saying “Reveal Back”
+  ![Quiz Card Front](/wireframes/QuizCardFront.png)
+- After pressing "Reveal", the card back appears, with two buttons: "Remembered" and "Didn’t remember"
+  ![Quiz Card Front](/wireframes/QuizCardFront.png)
+
+The user goes through all of the cards, pressing ‘remembered’ or ‘didn’t remember’. Once they press ‘remembered’, the card is not shown again. If they press ‘didn’t remember’ the card is sent to the back of the cards that remain to be shown and shown again at the end of the quiz.
+
+Once the cards are all done, the user sees a “Congratulations, you’re done!” screen
+![Quiz Finished](/wireframes/QuizFinished.png)
+
+This is the same as our existing embed feature. [Here](https://app.thoughtsaver.com/embed/SCfLnsdRF8) is a live demo if it helps make this clearer.
 
 ### Further instructions
 
