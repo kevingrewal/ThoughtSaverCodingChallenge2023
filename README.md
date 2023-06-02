@@ -49,6 +49,10 @@ Please answer the following questions.
 
 ## Assume you wanted the data to be stored permanently for the user. What database might you use? Why? What might some core tables look like? (100 words max)
 
+**Answer goes here**
+
 ## What other technology that you like would you likely use if you were making this app more fully featured? Why? (100 words max)
 
 - NB: We'er not looking for a comprehensive/exhaustive list of everything, we're just curious for a flavour of what technologies you like and work with. e.g. any of css/component libraries, testing libraries, linting tools, state management tools, frontend frameworks, deployment tooling like vercel, etc
+
+**Answer goes here**
