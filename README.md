@@ -1,8 +1,9 @@
 # Thought Saver Coding Challenge
 
 Recommended time
-45 minutes coding
-15 minutes answering free text
+
+- 45 minutes coding + reading instructions
+- 15 minutes answering free text
 
 ## Coding Goal (45 minutes)
 
@@ -12,13 +13,13 @@ Your task is to create a simple flash card app, where users can review cards. Th
 1. A list of all the cards, with fronts and backs shown.
    ![Card List Page](/wireframes/CardListPage.png)
 2. A quiz page, where the user goes through every card in any order. Each card is shown one at a time, in the following steps:
-   a. The card front, with one button saying “Reveal Back”
-   ![Quiz Card Front](/wireframes/QuizCardFront.png)
-   b. After pressing "Reveal", the card back appears, with two buttons: "Remembered" and "Didn’t remember"
-   ![Quiz Card Front](/wireframes/QuizCardFront.png)
+    a. The card front, with one button saying “Reveal Back”
+    ![Quiz Card Front](/wireframes/QuizCardFront.png)
+    b. After pressing "Reveal", the card back appears, with two buttons: "Remembered" and "Didn’t remember"
+    ![Quiz Card Front](/wireframes/QuizCardFront.png)
 3. The user goes through all of the cards, pressing ‘remembered’ or ‘didn’t remember’. Once they press ‘remembered’, the card is not shown again. If they press ‘didn’t remember’ the card is sent to the back of the cards that remain to be shown and shown again at the end of the quiz.
 4. Once the cards are all done, the user sees a “Congratulations, you’re done!” screen
-   ![Quiz Finished](/wireframes/QuizFinished.png)
+    ![Quiz Finished](/wireframes/QuizFinished.png)
 
 ### Further instructions
 
