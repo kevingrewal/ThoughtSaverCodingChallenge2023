@@ -1,11 +1,11 @@
 # Thought Saver Coding Challenge
 
 Recommended time
+- 10 minutes reading instructions 
+- 1 hour coding
+- 15 minutes answering free text questions
 
-- 45 minutes coding + reading instructions
-- 15 minutes answering free text
-
-## Coding Goal (45 minutes)
+## Coding Goal
 
 One of Thought Saver's core features is flash cards. Flash cards are a way of learning, where cards have two sides: a front, e.g. "What is the French word for ‘yes’?", and a back, e.g. "oui".
 Your task is to create a simplified version of Thought Saver, where users can review cards. It should have the following screens:
@@ -37,8 +37,9 @@ This is the same as our existing embed feature. [Here](https://app.thoughtsaver.
 - The app can, but doesn’t need to look exactly like the wireframe images above
 - Use any framework (React, Vue, Svelte etc) you like, or no framework if you prefer
 - TypeScript is preferable if you know it, but Javascript is OK if you don’t
-- We’re more interested in coding style, structure, and thought patterns than having all the features above. Get as far as you can in about 45 minutes, focusing on clean code over feature completeness. The challenge is not timed, but out of respect for your time we recommend spending ~10 minutes reading these instructions and setting up, and 35 minutes coding, before moving on to the plain text questions.
-- flashcards.ts and flashcards.js in this repository contain some flashcard fronts/backs you can use.
+- We’re more interested in coding style, structure, and thought patterns than having all the features above - you don't necessary need to finish everything. Get as far as you can in the recommended times, focusing on clean code over feature completeness. The challenge is not timed, but out of respect for your time we recommend the times above.
+- flashcards.ts and flashcards.js in this repository contain some flashcard fronts/backs you can use. Both files are the same, use whichever you like. 
+- You don't need to set up a database or any backend. 
 - Please fork this repository _privately_, and share the repository with the github users willfind and dgmp88
 
   - Create a new repository using the [Github Import feature](https://github.com/new/import)
